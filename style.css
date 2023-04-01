@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box; }
+
+body {
+  background-image: linear-gradient(rgba(247, 35, 7, 0.5), rgba(112, 111, 111, 0.8)), url(../img/lineas-geometricas-de-neon-abstracto_7680x5120_xtrafondos.com.jpg);
+  background-position: center;
+  background-repeat: no-repeat; }
+
+.cardProducto {
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 43px 12px rgba(0, 0, 0, 0.88);
+}
+
+input {
+    border: none;
+    border-radius: 10px;
+}
